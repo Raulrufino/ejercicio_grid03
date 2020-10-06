@@ -2,3 +2,45 @@
 /* *** Estilos SOLO para index.html *** */
 /* *********************************** */
 
+.bodyMainHeader{
+    grid-column: 1/16;
+    height:80px;
+}
+
+.bodyMainNav01{
+    grid-column: 2/3
+    
+}
+.bodyMainNav02{
+    grid-column: 4/5;
+}
+.bodyMainNav03{
+    grid-column: 5/6;
+}
+.bodyMainNav04{
+    grid-column: 6/7;
+}
+.bodyMainNav05{
+    grid-column: 7/8;
+}
+.bodyMainNav06{
+    grid-column: 8/9;
+}
+.bodyMainNav07{
+    grid-column: 10/11;
+}
+.bodyMainNav08{
+    grid-column: 11/12;
+}
+.bodyMainNav09{
+    grid-column: 12/13;
+}
+.bodyMainNav09{
+    grid-column: 13/14;
+}
+.bodyMainNav10{
+    grid-column: 14/15;
+}
+.bodyMainNav11{
+    grid-column: 15/16;
+}
