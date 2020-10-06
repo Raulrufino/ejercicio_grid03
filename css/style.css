@@ -15,10 +15,5 @@
 
 /* ******************************** */
 
-.grilla16{
-    display: grid;
-    grid-template-columns: repeat(16,1fr) ;
-    max-width: 1400px;
-   
 
-}
+
